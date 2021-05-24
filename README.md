@@ -1,3 +1,7 @@
+#Result 
+First times avarage = under 1s 
+Three times avarage = under 0.7s 
+
 # Graduate JS exercise
 
 Hello, thanks for taking the time to complete this exercise.
